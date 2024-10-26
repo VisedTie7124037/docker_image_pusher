@@ -4,4 +4,4 @@ xhofe/alist:latest
 xiaoyaliu/alist
 yuantuo666/baiduwp-php
 mysql
-
+ubuntu
