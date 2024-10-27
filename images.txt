@@ -5,3 +5,4 @@ xiaoyaliu/alist
 yuantuo666/baiduwp-php
 mysql
 ubuntu
+sickcodes/docker-osx:latest
